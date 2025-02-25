@@ -86,4 +86,4 @@ from influxdb import influxdb client
 need to install pandas and influx db 
   
 ###############Grafana Variables   ##################
-scalable .java changes 
+scalable .java changes
