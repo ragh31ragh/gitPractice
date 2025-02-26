@@ -960,4 +960,8 @@ Taints are the opposite -- they allow a node to repel a set of pods.
 Tolerations are applied to pods. Tolerations allow the scheduler to schedule pods with matching taints. Tolerations allow scheduling but don't guarantee scheduling: the scheduler also evaluates other parameters as part of its function.
 
 https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/
+<<<<<<< Updated upstream
 ###creating pull request####
+=======
+####RD1 stash practice######
+>>>>>>> Stashed changes
